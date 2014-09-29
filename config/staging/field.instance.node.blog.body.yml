@@ -1,0 +1,21 @@
+uuid: 5839d9b7-db84-4c75-9d00-f5652450a901
+langcode: en
+status: true
+dependencies:
+  entity:
+    - field.storage.node.body
+    - node.type.blog
+id: node.blog.body
+field_name: body
+entity_type: node
+bundle: blog
+label: Body
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_function: ''
+settings:
+  display_summary: true
+third_party_settings: {  }
+field_type: text_with_summary
