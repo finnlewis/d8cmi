@@ -1,0 +1,21 @@
+uuid: 87ca2959-f586-490e-a256-86e30d848c31
+langcode: en
+status: true
+dependencies:
+  entity:
+    - block_content.type.basic
+    - field.storage.block_content.body
+id: block_content.basic.body
+field_name: body
+entity_type: block_content
+bundle: basic
+label: Body
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_function: ''
+settings:
+  display_summary: false
+third_party_settings: {  }
+field_type: text_with_summary

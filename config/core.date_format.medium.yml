@@ -1,0 +1,8 @@
+uuid: b0f26457-3e52-49f7-8d61-9754b3aedf15
+langcode: en
+status: true
+dependencies: {  }
+id: medium
+label: 'Default medium date'
+locked: false
+pattern: 'D, m/d/Y - H:i'
